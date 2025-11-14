@@ -1,0 +1,437 @@
+{
+    "ATHL1": {
+        "preferred_name": "ATHL1",
+        "current_official_symbol": "PGGHG",
+        "aliases": ["PGGHG", "FLJ22635", "ATH1"],
+        "hgnc_id": "HGNC:26210",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "C11orf80":{
+        "preferred_name": "C11orf80",
+        "current_official_symbol": "TOP6BL",
+        "aliases": ["TOP6BL", "FLJ22531", "TOPOVIBL"],
+        "hgnc_id": "HGNC:26197",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "CEMP1": {
+        "preferred_name": "CEMP1",
+        "current_official_symbol": "CEMP1",
+        "aliases": ["CP-23"],
+        "hgnc_id": "HGNC:32553",
+        "status": "Current official symbol"
+    },
+
+    "CXorf57": {
+        "preferred_name": "CXorf57",
+        "current_official_symbol": "RADX",
+        "aliases": ["RADX", "FLJ14191", "FLJ10178"],
+        "hgnc_id": "HGNC:25486",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "EMR1": {
+        "preferred_name": "EMR1",
+        "current_official_symbol": "ADGRE1",
+        "aliases": ["ADGRE1", "TM7LN3"],
+        "hgnc_id": "HGNC:3336",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "EMR2": {
+        "preferred_name": "EMR2",
+        "current_official_symbol": "ADGRE2",
+        "aliases": ["ADGRE2", "CD312"],
+        "hgnc_id": "HGNC:3337",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "EMR3": {
+        "preferred_name": "EMR3",
+        "current_official_symbol": "ADGRE3",
+        "aliases": ["ADGRE3"],
+        "hgnc_id": "HGNC:23647",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "FAIM3": {
+        "preferred_name": "FAIM3",
+        "current_official_symbol": "FCMR",
+        "aliases": ["FCMR", "TOSO", "FcmuR"],
+        "hgnc_id": "HGNC:14315",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "FAM198B": {
+        "preferred_name": "FAM198B",
+        "current_official_symbol": "GASK1B",
+        "aliases": ["GASK1B", "C4orf18", "FLJ38155", "DKFZp434L142", "ENED"],
+        "hgnc_id": "HGNC:25312",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "FAM212B": {
+        "preferred_name": "FAM212B",
+        "current_official_symbol": "INKA2",
+        "aliases": ["INKA2", "C1orf183", "FLJ31105"],
+        "hgnc_id": "HGNC:28045",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "FAM65B": {
+        "preferred_name": "FAM65B",
+        "current_official_symbol": "RIPOR2",
+        "aliases": ["RIPOR2", "C6orf32", "KIAA0386", "DIFF48", "MYONAP"],
+        "hgnc_id": "HGNC:13872",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "GPR1": {
+        "preferred_name": "GPR1",
+        "current_official_symbol": "CMKLR2",
+        "aliases": ["CMKLR2"],
+        "hgnc_id": "HGNC:4463",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "GPR97": {
+        "preferred_name": "GPR97",
+        "current_official_symbol": "ADGRG3",
+        "aliases": ["ADGRG3", "Pb99", "PGR26"],
+        "hgnc_id": "HGNC:13728",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "GSTT1": {
+        "preferred_name": "GSTT1",
+        "current_official_symbol": "GSTT1",
+        "aliases": [],
+        "hgnc_id": "HGNC:4641",
+        "status": "Current official symbol"
+    },
+
+    "HIST1H2AE": {
+        "preferred_name": "HIST1H2AE",
+        "current_official_symbol": "H2AC8",
+        "aliases": ["H2AC8", "H2AFA", "H2A/a", "H2A.1"],
+        "hgnc_id": "HGNC:4724",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "HIST1H2BG": {
+        "preferred_name": "HIST1H2BG",
+        "current_official_symbol": "H2BC8",
+        "aliases": ["H2BC8", "H2BFA", "H2B/a", "H2B.1A"],
+        "hgnc_id": "HGNC:4746",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "KIAA0226L": {
+        "preferred_name": "KIAA0226L",
+        "current_official_symbol": "RUBCNL",
+        "aliases": ["RUBCNL", "C13orf18", "FLJ21562", "PACER"],
+        "hgnc_id": "HGNC:20420",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "KIAA0754": {
+        "preferred_name": "KIAA0754",
+        "current_official_symbol": "MACF1",
+        "aliases": ["MACF1", "KIAA0465", "ACF7", "ABP620", "KIAA1251", "MACF", "FLJ45612", "FLJ46776", "Lnc-PMIF"],
+        "hgnc_id": "HGNC:13664",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "KIRREL": {
+        "preferred_name": "KIRREL",
+        "current_official_symbol": "KIRREL1",
+        "aliases": ["KIRREL1", "NEPH1"],
+        "hgnc_id": "HGNC:15734",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "LILRA3": {
+        "preferred_name": "LILRA3",
+        "current_official_symbol": "LILRA3",
+        "aliases": ["LIR-4", "HM43", "ILT6", "HM31", "LIR4", "CD85e"],
+        "hgnc_id": "HGNC:6604",
+        "status": "Current official symbol"
+    },
+
+    "LOC100130100": {
+        "preferred_name": "LOC100130100",
+        "status": "not_found",
+        "aliases": [],
+        "entrez_id": null,
+        "ensembl_id": null,
+        "previous_symbols": [],
+        "notes": "Gene not found in current HGNC/NCBI databases. May be retired. Check LM22 documentation."
+    },
+
+    "LOC126987": {
+        "preferred_name": "LOC126987",
+        "status": "not_found",
+        "aliases": [],
+        "entrez_id": null,
+        "ensembl_id": null,
+        "previous_symbols": [],
+        "notes": "Gene not found in current HGNC/NCBI databases. May be retired. Check LM22 documentation."
+    },
+
+    "LRMP": {
+        "preferred_name": "LRMP",
+        "current_official_symbol": "IRAG2",
+        "aliases": ["IRAG2", "JAW1"],
+        "hgnc_id": "HGNC:6690",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "PTPRCAP": {
+        "preferred_name": "PTPRCAP",
+        "current_official_symbol": "PTPRCAP",
+        "aliases": ["LPAP", "CD45-AP"],
+        "hgnc_id": "HGNC:9667",
+        "status": "Current official symbol"
+    },
+
+    "VNN3": {
+        "preferred_name": "VNN3",
+        "current_official_symbol": "VNN3P",
+        "aliases": ["VNN3P", "HSA238982"],
+        "hgnc_id": "HGNC:16431",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "ATXN8OS": {
+        "preferred_name": "ATXN8OS",
+        "current_official_symbol": "ATXN8OS",
+        "aliases": ["SCA8", "KLHL1AS", "NCRNA00003"],
+        "hgnc_id": "HGNC:10561",
+        "status": "Current official symbol"
+    },
+
+    "CLCA3P": {
+        "preferred_name": "CLCA3P",
+        "current_official_symbol": "CLCA3P",
+        "aliases": ["CLCA3"],
+        "hgnc_id": "HGNC:2017",
+        "status": "Current official symbol"
+    },
+
+    "FLJ13197": {
+        "preferred_name": "FLJ13197",
+        "current_official_symbol": "KLF3-AS1",
+        "aliases": ["KLF3-AS1", "FLJ13197"],
+        "hgnc_id": "HGNC:25796",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "GUSBP11": {
+        "preferred_name": "GUSBP11",
+        "current_official_symbol": "GUSBP11",
+        "aliases": [],
+        "hgnc_id": "HGNC:42325",
+        "status": "Current official symbol"
+    },
+
+    "HMGB3P30": {
+        "preferred_name": "HMGB3P30",
+        "current_official_symbol": "HMGB3P30",
+        "aliases": [],
+        "hgnc_id": "HGNC:39333",
+        "status": "Current official symbol"
+    },
+
+    "IGHD": {
+        "preferred_name": "IGHD",
+        "current_official_symbol": "IGHD",
+        "aliases": ["FLJ00382", "FLJ46727", "MGC29633"],
+        "hgnc_id": "HGNC:5480",
+        "status": "Current official symbol"
+    },
+
+    "IGHE": {
+        "preferred_name": "IGHE",
+        "current_official_symbol": "IGHE",
+        "aliases": [],
+        "hgnc_id": "HGNC:5522",
+        "status": "Current official symbol"
+    },
+
+    "IGHM": {
+        "preferred_name": "IGHM",
+        "current_official_symbol": "IGHM",
+        "aliases": [],
+        "hgnc_id": "HGNC:5541",
+        "status": "Current official symbol"
+    },
+
+    "IGKC": {
+        "preferred_name": "IGKC",
+        "current_official_symbol": "IGKC",
+        "aliases": ["HCAK1"],
+        "hgnc_id": "HGNC:5716",
+        "status": "Current official symbol"
+    },
+
+    "IGLL3P": {
+        "preferred_name": "IGLL3P",
+        "current_official_symbol": "IGLL3P",
+        "aliases": ["IGLL3", "16.1"],
+        "hgnc_id": "HGNC:5872",
+        "status": "Current official symbol"
+    },
+
+    "KRT18P50": {
+        "preferred_name": "KRT18P50",
+        "current_official_symbol": "KRT18P50",
+        "aliases": [],
+        "hgnc_id": "HGNC:33420",
+        "status": "Current official symbol"
+    },
+
+    "LINC00597": {
+        "preferred_name": "LINC00597",
+        "current_official_symbol": "LINC00597",
+        "aliases": ["C15orf5"],
+        "hgnc_id": "HGNC:1193",
+        "status": "Current official symbol"
+    },
+
+    "LINC00921": {
+        "preferred_name": "LINC00921",
+        "current_official_symbol": "LINC00921",
+        "aliases": ["FLJ39639"],
+        "hgnc_id": "HGNC:26830",
+        "status": "Current official symbol"
+    },
+
+    "MARCH3": {
+        "preferred_name": "MARCH3",
+        "current_official_symbol": "MARCHF3",
+        "aliases": ["MARCHF3", "MGC48332", "MARCH-III", "RNF173"],
+        "hgnc_id": "HGNC:28728",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "MMP12": {
+        "preferred_name": "MMP12",
+        "current_official_symbol": "MMP12",
+        "aliases": ["HME"],
+        "hgnc_id": "HGNC:7158",
+        "status": "Current official symbol"
+    },
+
+    "RPL3P7": {
+        "preferred_name": "RPL3P7",
+        "current_official_symbol": "RPL3P7",
+        "aliases": [],
+        "hgnc_id": "HGNC:36797",
+        "status": "Current official symbol"
+    },
+
+    "SEPT5": {
+        "preferred_name": "SEPT5",
+        "current_official_symbol": "SEPTIN5",
+        "aliases": ["SEPTIN5", "PNUTL1", "HCDCREL-1", "H5", "Septin-5", "CDCREL-1"],
+        "hgnc_id": "HGNC:9164",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "SEPT8": {
+        "preferred_name": "SEPT8",
+        "current_official_symbol": "SEPTIN8",
+        "aliases": ["SEPTIN8", "KIAA0202", "SEP2", "Septin-8"],
+        "hgnc_id": "HGNC:16511",
+        "status": "LM22 uses previous symbol"
+    },
+
+    "TARDBPP1": {
+        "preferred_name": "TARDBPP1",
+        "current_official_symbol": "TARDBPP1",
+        "aliases": ["TARDBPL", "bA318P23.1"],
+        "hgnc_id": "HGNC:16536",
+        "status": "Current official symbol"
+    },
+
+    "TRAC": {
+        "preferred_name": "TRAC",
+        "current_official_symbol": "TRAC",
+        "aliases": [],
+        "hgnc_id": "HGNC:12029",
+        "status": "Current official symbol"
+    },
+
+    "TRAV12-2": {
+        "preferred_name": "TRAV12-2",
+        "current_official_symbol": "TRAV12-2",
+        "aliases": [],
+        "hgnc_id": "HGNC:12106",
+        "status": "Current official symbol"
+    },
+
+    "TRAV13-1": {
+        "preferred_name": "TRAV13-1",
+        "current_official_symbol": "TRAV13-1",
+        "aliases": [],
+        "hgnc_id": "HGNC:12108",
+        "status": "Current official symbol"
+    },
+
+    "TRAV13-2": {
+        "preferred_name": "TRAV13-2",
+        "current_official_symbol": "TRAV13-2",
+        "aliases": [],
+        "hgnc_id": "HGNC:12109",
+        "status": "Current official symbol"
+    },
+
+    "TRAV21": {
+        "preferred_name": "TRAV21",
+        "current_official_symbol": "TRAV21",
+        "aliases": [],
+        "hgnc_id": "HGNC:12118",
+        "status": "Current official symbol"
+    },
+
+    "TRAV8-6": {
+        "preferred_name": "TRAV8-6",
+        "current_official_symbol": "TRAV8-6",
+        "aliases": [],
+        "hgnc_id": "HGNC:12151",
+        "status": "Current official symbol"
+    },
+
+    "TRAV9-2": {
+        "preferred_name": "TRAV9-2",
+        "current_official_symbol": "TRAV9-2",
+        "aliases": [],
+        "hgnc_id": "HGNC:12154",
+        "status": "Current official symbol"
+    },
+
+    "TRBC1": {
+        "preferred_name": "TRBC1",
+        "current_official_symbol": "TRBC1",
+        "aliases": ["TCRBC1", "BV05S1J2.2"],
+        "hgnc_id": "HGNC:12156",
+        "status": "Current official symbol"
+    },
+
+    "TRDC": {
+        "preferred_name": "TRDC",
+        "current_official_symbol": "TRDC",
+        "aliases": [],
+        "hgnc_id": "HGNC:12253",
+        "status": "Current official symbol"
+    },
+
+    "ZNF204P": {
+        "preferred_name": "ZNF204P",
+        "current_official_symbol": "ZNFs204P",
+        "aliases": ["ZNF204", "ZNF315P", "b24o18.1", "ZNF184-Lp"],
+        "hgnc_id": "HGNC:12995",
+        "status": "Current official symbol"
+    }
+}
