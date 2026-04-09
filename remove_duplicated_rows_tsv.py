@@ -1,8 +1,8 @@
 import pandas as pd
 
 # Input and output paths
-input_path = "/mnt/c/Apps/CIBERSORTx/rnaseq_expression_luad/rnaseq_expression_luad_copy.tsv"
-output_path = "/mnt/c/Apps/CIBERSORTx/rnaseq_expression_luad/rnaseq_expression_luad_deduplicated.tsv"
+input_path = "/mnt/f/data/public_data/TCGA/LUAD/rnaseq/raw_counts/rnaseq_expression_luad.tsv"
+output_path = "/mnt/c/Apps/CIBERSORTx/rnaseq_expression_luad/rnaseq_expression_luad.tsv"
 
 # Read all lines as raw text
 with open(input_path, "r", encoding="utf-8") as f:

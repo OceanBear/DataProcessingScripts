@@ -1,9 +1,9 @@
 import pandas as pd
 
 # Paths
-rna_file = "/mnt/c/Apps/CIBERSORTx/rnaseq_expression_luad/rnaseq_expression_luad_filtered.csv"
-length_file = "/mnt/c/Apps/CIBERSORTx/Homo_sapiens/filtered_gene_lengths.csv"
-output_file = "/mnt/c/Apps/CIBERSORTx/rnaseq_expression_luad/rnaseq_expression_luad_TPM.csv"
+rna_file = "/mnt/c/Apps/CIBERSORTx/rnaseq_expression_luad/rnaseq_expression_luad_raw_counts_Evie.csv"
+length_file = "/mnt/c/Apps/CIBERSORTx/Homo_sapiens/filtered_gene_lengths_Evie.csv"
+output_file = "/mnt/c/Apps/CIBERSORTx/rnaseq_expression_luad/rnaseq_expression_luad_TPM_Evie.csv"
 
 # Load RNA raw counts (first column = genes, first row = sample IDs)
 rna = pd.read_csv(rna_file, index_col=0)

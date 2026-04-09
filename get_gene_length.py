@@ -5,8 +5,8 @@ N = 12  # number of rows to skip from the top of the rna_file
 
 # Paths
 gtf_file = "/mnt/c/Apps/CIBERSORTx/Homo_sapiens/Homo_sapiens.GRCh38.115.gtf"
-rna_file = "/mnt/c/Apps/CIBERSORTx/rnaseq_expression_luad/rnaseq_expression_luad_filtered.csv"
-output_file = "/mnt/c/Apps/CIBERSORTx/Homo_sapiens/filtered_gene_lengths.csv"
+rna_file = "/mnt/c/Apps/CIBERSORTx/rnaseq_expression_luad/rnaseq_expression_luad_raw_counts_Evie.csv"
+output_file = "/mnt/c/Apps/CIBERSORTx/Homo_sapiens/filtered_gene_lengths_Evie.csv"
 
 # Load gene list from first column of RNA file, skip first N rows
 rna = pd.read_csv(rna_file, index_col=0)
